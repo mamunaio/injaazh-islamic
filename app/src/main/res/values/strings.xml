@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Injaazh Islamic</string>
+    <string name="welcome_msg">Assalamu Alaikum - Welcome to Injaazh Islamic</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="quran_title">Al-Quran</string>
+    <string name="qibla_title">Qibla Compass</string>
+    <string name="duas_title">Duas &amp; Azkar</string>
+    <string name="tracker_title">Prayer Tracker</string>
+    <string name="hijri_date">Hijri Date</string>
+    <string name="next_prayer">Next Prayer</string>
+    <string name="upcoming">Upcoming...</string>
+    <string name="location_default">Dhaka (Default)</string>
+    <string name="location_your">Your Location</string>
+
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+
+    <string name="qibla_desc">The red needle points to Qibla</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_quran">Quran</string>
+    <string name="nav_qibla">Qibla</string>
+    <string name="nav_duas">Duas</string>
+    <string name="nav_tasbih">Tasbih</string>
+    <string name="greeting_msg">Assalamu Alaikum</string>
+    <string name="hadith_title">Hadith</string>
+    <string name="mosque_finder">Mosque</string>
+    <string name="community">Community</string>
+    <string name="sehri_time">Sehri: %s</string>
+    <string name="iftar_time">Iftar: %s</string>
+    <string name="daily_inspiration">Daily Inspiration</string>
+    <string name="remaining_time">%02d:%02d:%02d remaining</string>
+
+    <!-- Zakat Strings -->
+    <string name="zakat_title">Zakat Calculator</string>
+    <string name="total_zakat_payable">Total Zakat Payable</string>
+    <string name="enter_assets">Enter Your Assets</string>
+    <string name="cash_bank">Cash &amp; Bank Balances</string>
+    <string name="gold_value">Gold Market Value</string>
+    <string name="silver_value">Silver Market Value</string>
+    <string name="investments">Investments &amp; Shares</string>
+    <string name="business_goods">Business Goods Value</string>
+    <string name="liabilities">Enter Liabilities (Debts)</string>
+    <string name="debts_to_pay">Debts &amp; Bills to Pay</string>
+    <string name="total_assets">Total Assets</string>
+    <string name="total_liabilities">Total Liabilities</string>
+    <string name="net_wealth">Net Wealth</string>
+    <string name="not_eligible_zakat">Your net wealth is below Nisab. Zakat is not mandatory.</string>
+</resources>

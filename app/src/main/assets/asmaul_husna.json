@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nameAr": "الرَّحْمَنُ",
+    "nameEn": "Ar-Rahman",
+    "meaningBn": "পরম দয়ালু",
+    "descriptionBn": "যিনি সৃষ্টির সকলের প্রতি দয়ালু।"
+  },
+  {
+    "id": 2,
+    "nameAr": "الرَّحِيمُ",
+    "nameEn": "Ar-Raheem",
+    "meaningBn": "অতিশয় মেহেরবান",
+    "descriptionBn": "যিনি মুমিনদের প্রতি বিশেষভাবে দয়ালু।"
+  },
+  {
+    "id": 3,
+    "nameAr": "الْمَلِكُ",
+    "nameEn": "Al-Malik",
+    "meaningBn": "অধিপতি",
+    "descriptionBn": "যিনি মহাবিশ্বের প্রকৃত মালিক।"
+  }
+]

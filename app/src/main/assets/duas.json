@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nameEn": "Morning & Evening",
+      "nameBn": "সকাল-সন্ধ্যার জিকির",
+      "iconName": "wb_sunny"
+    },
+    {
+      "id": 2,
+      "nameEn": "Sleep",
+      "nameBn": "ঘুমের দোয়া",
+      "iconName": "bedtime"
+    }
+  ],
+  "duas": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "arabicText": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ",
+      "transliterationBn": "আসবাহনা ওয়া আসবাহাল মুলকু লিল্লাহ...",
+      "translationBn": "আমরা ভোরে উপনীত হয়েছি এবং রাজত্বও আল্লাহর জন্য ভোরে উপনীত হয়েছে...",
+      "translationEn": "We have reached the morning and at this very time unto Allah belongs all sovereignty...",
+      "reference": "Muslim 4/2088",
+      "repeatCount": 1
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "arabicText": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "transliterationBn": "বিসমিকাল্লাহুম্মা আমূতু ওয়া আহইয়া",
+      "translationBn": "হে আল্লাহ! আপনার নাম নিয়েই আমি মরছি (ঘুমাচ্ছি) এবং আপনার নাম নিয়েই জীবিত (জাগ্রত) হব।",
+      "translationEn": "In Your name, O Allah, I die and I live.",
+      "reference": "Bukhari 11/113, Muslim 4/2083",
+      "repeatCount": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ইনজাজ ইসলামিক</string>
+    <string name="welcome_msg">আসসালামু আলাইকুম - ইনজাজ ইসলামিকে স্বাগতম</string>
+    <string name="dashboard_title">ড্যাশবোর্ড</string>
+    <string name="quran_title">আল-কুরআন</string>
+    <string name="qibla_title">কিবলা কম্পাস</string>
+    <string name="duas_title">দোয়া ও আজকার</string>
+    <string name="tracker_title">নামাজ ট্র্যাকার</string>
+    <string name="hijri_date">হিজরি তারিখ</string>
+    <string name="next_prayer">পরবর্তী নামাজ</string>
+    <string name="upcoming">আসন্ন...</string>
+    <string name="location_default">ঢাকা (ডিফল্ট)</string>
+    <string name="location_your">আপনার অবস্থান</string>
+
+    <string name="fajr">ফজর</string>
+    <string name="sunrise">সূর্যোদয়</string>
+    <string name="dhuhr">যোহর</string>
+    <string name="asr">আসর</string>
+    <string name="maghrib">মাগরিব</string>
+    <string name="isha">এশা</string>
+
+    <string name="qibla_desc">লাল কাঁটাটি কিবলার দিক নির্দেশ করছে</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_quran">কুরআন</string>
+    <string name="nav_qibla">কিবলা</string>
+    <string name="nav_duas">দোয়া</string>
+    <string name="nav_tasbih">তাসবিহ</string>
+    <string name="greeting_msg">আসসালামু আলাইকুম</string>
+    <string name="hadith_title">হাদিস</string>
+    <string name="mosque_finder">মসজিদ</string>
+    <string name="community">কমিউনিটি</string>
+    <string name="sehri_time">সেহরি: %s</string>
+    <string name="iftar_time">ইফতার: %s</string>
+    <string name="daily_inspiration">আজকের অনুপ্রেরণা</string>
+    <string name="remaining_time">%02d ঘণ্টা %02d মিনিট %02d সেকেন্ড বাকি</string>
+
+    <!-- Zakat Strings -->
+    <string name="zakat_title">যাকাত ক্যালকুলেটর</string>
+    <string name="total_zakat_payable">মোট প্রদেয় যাকাত</string>
+    <string name="enter_assets">আপনার সম্পদ ইনপুট দিন</string>
+    <string name="cash_bank">নগদ ও ব্যাংক ব্যালেন্স</string>
+    <string name="gold_value">স্বর্ণের বাজার মূল্য</string>
+    <string name="silver_value">রূপার বাজার মূল্য</string>
+    <string name="investments">বিনিয়োগ ও শেয়ার</string>
+    <string name="business_goods">ব্যবসায়িক পণ্যের মূল্য</string>
+    <string name="liabilities">দেনা বা ঋণের হিসাব</string>
+    <string name="debts_to_pay">পরিশোধযোগ্য ঋণ ও বিল</string>
+    <string name="total_assets">মোট সম্পদ</string>
+    <string name="total_liabilities">মোট দায়</string>
+    <string name="net_wealth">নিট সম্পদ</string>
+    <string name="not_eligible_zakat">আপনার সম্পদ নিসাবের নিচে। যাকাত ফরজ নয়।</string>
+</resources>
